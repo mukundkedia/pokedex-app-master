@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokedexApp</string>
+    <string name="fb_app_id">207331116830041</string>
+    <string name="ak_client_token">e7a4ef5f4a7adb857efd0c4c777486cb</string>
+</resources>
